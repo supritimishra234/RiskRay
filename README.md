@@ -8,6 +8,7 @@ RiskRay is a web application that helps users uncover hidden risks present in ev
 -  Risk score and impact visualization
 
 Tech Stack:
+
  Frontend:-
 - React
 - HTML
